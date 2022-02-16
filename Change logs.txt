@@ -1,2 +1,14 @@
+
+v.0001
++clean
++sclean
++ban
++ping
+
+
 changes
 
+v.0002
++kick
+client_run в чат
+ну ещё +nya.
